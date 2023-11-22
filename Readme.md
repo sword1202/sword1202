@@ -2,7 +2,7 @@
   ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 </div>
 <h1 align="center">
-  Creative Senior Mobile App Developer (iOS & Android)
+  Senior Mobile App Developer(iOS & Android)
 </h1>
 
 ###
